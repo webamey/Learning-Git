@@ -1,1 +1,1 @@
-# Learning-Git
+- Amey Deshpande says Git is amazing.
